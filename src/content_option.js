@@ -1,23 +1,26 @@
-const logotext = "JOHN";
+const logotext = "HOME";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Stenson Simon",
+    description: "I’m Stenson, working as SIM Engineer in Dublin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Stenson Simon",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I build smart devices",
+        third: "I work on automation projects",
+        fourth: "I create innovative solutions",
+        fifth: "I troubleshoot complex problems",
+        sixth: "I integrate systems and platforms"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a tech enthusiast with my experience in SIM related design, OTA systems, and vendor system integration. I specialize in development, testing, validation, and documentation, collaborating with cross-functional teams to optimize complex systems. I’m also passionate about home automation, ESP32 development, and continuously learning new programming languages and AI technologies.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A Bit about my self",
+    aboutme: "Hey there! I’m a developer who spends most of my time tinkering with ESP32s, and automating my home to the point where even the plants are probably judging me. When I’m not coding, I’m diving into AI, keeping myself updated with the fast-moving tech, or trying to keep my aquarium fish from plotting a rebellion. Always curious, always learning, and occasionally giving my fish advice on debugging.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -52,23 +55,20 @@ const skills = [{
         name: "React",
         value: 60,
     },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+    
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Python Development",
+        description: "I offer Python development services to build custom solutions tailored to your needs. Whether it’s automation, web apps, or data processing, I specialize in writing clean, efficient, and scalable Python code that drives results. Let’s turn your ideas into functional applications!",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Embedded System Development",
+        description: "I provide embedded development services, specializing in creating efficient, reliable, and custom solutions for embedded systems. From microcontrollers to IoT devices, I deliver tailored software to power your hardware and bring your projects to life.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Test Automation",
+        description: "I offer test automation services using Selenium to streamline your software testing process. By automating repetitive tests, I help improve efficiency, reduce errors, and ensure high-quality web applications with faster release cycles.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "stensons88@yahoo.com",
+    YOUR_FONE: "",
+    description: "Feel free to reach out if you'd like to collaborate, discuss a project, or just chat about tech! I’m always excited to connect and explore new opportunities.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/StensonSimon",
+    facebook: "https://www.facebook.com/stenson.simon",
+    linkedin: "https://www.linkedin.com/in/stenson-simon/",
     twitter: "https://twitter.com",
 };
 export {
